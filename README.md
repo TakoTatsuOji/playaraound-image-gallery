@@ -1,3 +1,3 @@
 # Short Project Series 3
-## playaraound-image-gallery
+## Playaraound Image Gallery
 [Website Link](https://takotatsuoji.github.io/playaraound-image-gallery/)
